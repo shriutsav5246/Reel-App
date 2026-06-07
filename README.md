@@ -1,4 +1,4 @@
-# Reelify 🎬
+# Reel App 🎬
 
 A modern Android Reel Application built using **Kotlin**, **ViewPager2**, and **Media3 ExoPlayer**. The application provides a smooth short-video viewing experience similar to popular reel-based platforms with infinite scrolling and automatic video playback.
 
@@ -6,7 +6,7 @@ A modern Android Reel Application built using **Kotlin**, **ViewPager2**, and **
 
 ## 📱 Project Overview
 
-Reelify is a lightweight Android application that displays short videos in a vertically scrollable reel feed. Videos play automatically when selected, loop continuously, and allow users to pause or resume playback with a simple tap.
+Reel App is a lightweight Android application that displays short videos in a vertically scrollable reel feed. Videos play automatically when selected, loop continuously, and allow users to pause or resume playback with a simple tap.
 
 This project was developed as part of the **Impact Training 2026-27** organized by **byteXL** at **NIMS University**.
 
@@ -56,12 +56,12 @@ This project was developed as part of the **Impact Training 2026-27** organized 
 ## 📂 Project Structure
 
 ```text
-Reelify
+Reel App
 │
 ├── app
 │   ├── manifests
 │   ├── java
-│   │   └── com.utsav.reelify
+│   │   └── com.utsav.Reel App
 │   │       ├── MainActivity.kt
 │   │       ├── ReelAdapter.kt
 │   │       └── ReelVideo.kt
